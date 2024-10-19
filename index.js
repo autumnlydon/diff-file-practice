@@ -1,4 +1,4 @@
-const sadSound = "meow";
+const sadSound = "meeow";
 const sound = "womp womp";
 const age = 7;
 
